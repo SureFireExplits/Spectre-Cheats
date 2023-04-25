@@ -1,0 +1,108 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #212121;
+}
+
+.Evon {
+    border: 5px;
+    height: 420px;
+    width: 390px;
+    border-radius: 5px;
+    border-color: black;
+    background-color: #4444!important;
+    margin-left: 50px;
+    margin-top: 30px;
+    float: left;
+}
+
+.EvonImage {
+    width: 350px;
+    height: 190px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.EvonTitle {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: white;
+}
+
+.EvonDis {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    margin-top: 5px;
+    color: white;
+}
+
+.EvonDownload {
+    margin-top: 40px;
+    margin-left: 20px;
+    height: 48px;
+    width: 170px;
+    border: none;
+    float: left;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #ff1344;
+    color: white;
+}
+
+.Discord {
+    margin-top: 40px;
+    margin-right: 20px;
+    height: 48px;
+    width: 170px;
+    float: right;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #7289DA;
+    color: white;
+}
+
+.script {
+    background-color: #4444!important;
+    height: 198px;
+    width: 398px;
+    margin-top: 30px;
+    margin-left: 100px;
+    border-radius: 5px;
+    float: left;
+}
+
+.ScriptName {
+    color: white;
+    padding: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ScriptDis {
+    color: white;
+    padding: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.GetScript {
+    border: none;
+    background-color: #ff1344;
+    color: white;
+    float: right;
+    height: 38px;
+    width: 100px;
+    margin-right: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
